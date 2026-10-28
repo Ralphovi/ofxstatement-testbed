@@ -14,5 +14,3 @@ permissions:
 jobs:
   flag:
     uses: eduralph/.github/.github/workflows/flag-unlinked-pr.yml@main
-    with:
-      skip-trusted: false
